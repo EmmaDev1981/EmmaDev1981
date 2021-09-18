@@ -12,7 +12,6 @@ currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
 
 hobbies: ["Scuba Diving", "Photography", "Travel" ],
 located_in: 'some place in the world',
-relocation_interests: ["Canada", "Europe", "EEUU"]
 
 }
 ```
