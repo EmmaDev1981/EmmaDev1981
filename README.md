@@ -1,4 +1,23 @@
-## Hi There!! I´m Emmanuel 
+## Hi There!!
+
+```yaml
+person = {
+
+my_name: 'Emmanuel',
+located_in: 'some place in the world',
+from: 'Buenos Aires (Argentina)',
+
+languages: ["Spanish", "English", "Portuguese"],
+technical_interests: ["FrontEnd Develope", "BacktEnd Develope", "Others"],
+currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
+hobbies: ["Scuba Diving", "Photography", "Travel" ],
+
+relocation_interests: ["Canada", "Europe", "EEUU"]
+
+}
+```
+## 
+
  <div>
   <a href="https://github.com/EmmaDev1981">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmaDev1981&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
