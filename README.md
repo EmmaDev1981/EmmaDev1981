@@ -1,17 +1,17 @@
 ## Hi There!!
 
 ```yaml
-person = {
+obj_person = {
 
 my_name: 'Emmanuel',
-located_in: 'some place in the world',
 from: 'Buenos Aires (Argentina)',
-
 languages: ["Spanish", "English", "Portuguese"],
-technical_interests: ["FrontEnd Develope", "BacktEnd Develope", "Others"],
-currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
-hobbies: ["Scuba Diving", "Photography", "Travel" ],
 
+technical_interests: ["FrontEnd Developer", "BacktEnd Developer", "Other"],
+currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
+
+hobbies: ["Scuba Diving", "Photography", "Travel" ],
+located_in: 'some place in the world',
 relocation_interests: ["Canada", "Europe", "EEUU"]
 
 }
