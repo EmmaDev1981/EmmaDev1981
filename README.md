@@ -7,15 +7,16 @@
 ```yaml
 obj_person = {
 
-my_name: 'Emmanuel',
-from: 'Buenos Aires (Argentina)',
+my_name: "Emmanuel",
+
+from: "Buenos Aires, Argentina",
 languages: ["Spanish", "English", "Portuguese"],
 
-technical_interests: ["FrontEnd Developer", "BacktEnd Developer", "Other"],
+technical_interests: ["FrontEnd", "BacktEnd"],
 currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
 
 hobbies: ["Scuba Diving", "Photography", "Travel" ],
-located_in: 'some place in the world',
+located_in: "some place in the world",
 
 }
 ```
