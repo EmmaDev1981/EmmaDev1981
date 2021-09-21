@@ -12,7 +12,7 @@ my_name: "Emmanuel",
 from: "Buenos Aires, Argentina",
 languages: ["Spanish", "English", "Portuguese"],
 
-technical_interests: ["FrontEnd", "BacktEnd"],
+technical_interests: ["FrontEnd", "BackEnd"],
 currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
 
 hobbies: ["Scuba Diving", "Photography", "Travel" ],
