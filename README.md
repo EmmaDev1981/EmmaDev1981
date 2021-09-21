@@ -15,7 +15,7 @@ languages: ["Spanish", "English", "Portuguese"],
 technical_interests: ["FrontEnd", "BackEnd"],
 currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
 
-hobbies: ["Scuba Diving", "Photography", "Travel" ],
+hobbies: ["Scuba Diving", "Photography", "Travel"],
 located_in: "some place in the world",
 
 }
