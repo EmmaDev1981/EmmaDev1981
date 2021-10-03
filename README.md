@@ -8,15 +8,16 @@
 obj_person = {
 
 my_name: "Emmanuel",
+email: "enavas3@gmail.com",
 
 from: "Buenos Aires, Argentina",
 languages: ["Spanish", "English", "Portuguese"],
 
-technical_interests: ["FrontEnd", "BackEnd"],
+technical_interests: ["FrontEnd", "BackEnd", "FullStack"],
 currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
 
 hobbies: ["Scuba Diving", "Photography", "Travel"],
-located_in: "some place in the world",
+location_preferences: "remote",
 
 }
 ```
