@@ -14,10 +14,10 @@ from: "Buenos Aires, Argentina",
 languages: ["Spanish", "English", "Portuguese"],
 
 technical_interests: ["FrontEnd", "BackEnd", "FullStack"],
-currently_learning: ["TypeScript", "MongoDB", "TailwindCSS"],
+currently_learning: ["VUE", "MongoDB"],
 
 hobbies: ["Scuba Diving", "Photography", "Travel"],
-location_preferences: "remote",
+location_preferences: "100% Remote",
 
 }
 ```
