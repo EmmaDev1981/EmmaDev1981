@@ -14,7 +14,7 @@ from: "Argentina",
 languages: ["Spanish", "English"],
 
 technical_interests: ["FrontEnd mainly", "FullStack"],
-currently_learning: ["VUE", "MongoDB"],
+currently_learning: ["VUE", "MongoDB", "GraphQL"],
 
 hobbies: ["Scuba Diving Instructor", "Photography", "Travel"],
 location_preferences: "100% Remote",
