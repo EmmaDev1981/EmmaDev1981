@@ -16,7 +16,7 @@ languages: ["Spanish", "English"],
 technical_interests: ["FrontEnd mainly", "FullStack"],
 currently_learning: ["VUE", "MongoDB"],
 
-hobbies: ["Scuba Diving Instructor", "Photography", "Travel"],
+hobbies: ["Scuba Diving Instructor", "Photography"],
 location_preferences: "100% Remote",
 
 }
