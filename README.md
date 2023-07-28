@@ -5,7 +5,7 @@
 </h1>
 
 ```yaml
-obj_person = {
+my_self = {
 
 my_name: "Emmanuel Navas",
 email: "enavas3@gmail.com",
@@ -13,11 +13,11 @@ email: "enavas3@gmail.com",
 from: "Argentina",
 languages: ["Spanish", "English"],
 
-technical_interests: ["FrontEnd mainly", "FullStack"],
-currently_learning: ["VUE", "MongoDB"],
+technical_interests: ["FrontEnd mainly", "FullStack also"],
+currently_learning: ["TypeScript", "MongoDB", "GraphQL"],
 
 hobbies: ["Scuba Diving Instructor", "Photography"],
-location_preferences: "100% Remote",
+location_preferences: "Remote",
 
 }
 ```
